@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Fenics-mixed by hplgit</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Mixing FEniCS with external software</h1>
+        <p>Tutorial on how to combine FEniCS applications in Python with software written in other languages.</p>
+
+	<img src="fig/fenics_logo.png" width=200>
+
+        <ul>
+          <li><a href="https://github.com/hplgit/fenics-mixed/zipball/master">Download <strong>ZIP File</strong></a></li>
+          <li><a href="https://github.com/hplgit/fenics-mixed/tarball/master">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="https://github.com/hplgit/fenics-mixed">View On <strong>GitHub</strong></a></li>
+        </ul>
+      </header>
+      <section>
+      <h3><a href="../pub/sphinx/index.html">Combining FEniCS with Your Favorite Software in C, C++, Fortran, or MATLAB</a></h3>
+ Alternative formats:
+<ul>
+ <li> <a href="../pub/fenics-mixed-4paper.pdf">PDF for printing</a></li>
+ <li> <a href="../pub/fenics-mixed.pdf">PDF for electronic viewing</a></li>
+ <li> <a href="../pub/sphinx-basicstrap/index.html">HTML (Sphinx basicstrap theme)</a></li>
+ <li> <a href="../pub/sphinx-cbc/index.html">HTML (Sphinx CBC theme)</a></li>
+ <li> <a href="../pub/sphinx-pyramid/index.html">HTML (Sphinx pyramid theme)</a></li>
+ <li> <a href="../pub/fenics-mixed.html">Plain HTML</a></li>
+</ul>
+      </section>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+
+  </body>
+</html>
